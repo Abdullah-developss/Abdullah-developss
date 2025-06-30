@@ -7,11 +7,4 @@ I'm a Junior Python Developer and Computer Science student at Arab Open Universi
 
 🧠 Always learning — currently diving deeper into REST APIs, AI prompt engineering, and data-driven applications.
 
-🔧 Tech I work with:
-- **Python** (automation, web scraping, GUI, Flask)
-- **Flask + HTML/CSS + WTForms + SQLAlchemy**
-- **Data Analysis** (Pandas, Tableau, Google Sheets)
-- **Web scraping** (Amazon, LinkedIn, Tinder, etc.)
-- **Login/auth systems**, custom APIs, and dashboards
-
 🔗 Check out some of my projects below — feel free to fork, follow, or drop a message!
