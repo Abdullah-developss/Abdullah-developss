@@ -1,16 +1,17 @@
-## Hi there 👋
+👋 Hi, I am Abdullah Asif
 
-<!--
-**Abdullah-developss/Abdullah-developss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍Based in Saudi Arabia, Jeddah 
+💻 Junior Python Developer
 
-Here are some ideas to get you started:
+I'm a Junior Python Developer and Computer Science student at Arab Open University (Jeddah), passionate about building real-world tech solutions through code. I love working on backend projects, building web apps with Flask, automating boring stuff with Python, and exploring data with Pandas & Tableau.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 Always learning — currently diving deeper into REST APIs, AI prompt engineering, and data-driven applications.
+
+🔧 Tech I work with:
+- **Python** (automation, web scraping, GUI, Flask)
+- **Flask + HTML/CSS + WTForms + SQLAlchemy**
+- **Data Analysis** (Pandas, Tableau, Google Sheets)
+- **Web scraping** (Amazon, LinkedIn, Tinder, etc.)
+- **Login/auth systems**, custom APIs, and dashboards
+
+🔗 Check out some of my projects below — feel free to fork, follow, or drop a message!
